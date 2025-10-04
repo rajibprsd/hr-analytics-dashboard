@@ -60,7 +60,7 @@ These insights can help HR teams **optimize retention policies, salary structure
 |------|-------------|
 | `HR_Analytics.csv` | Cleaned dataset used for visualization |
 | `HR_Analytics.pbix` | Power BI dashboard file |
-| `Screenshot 2025-06-27 003219.png` | Dashboard preview |
+| `image.png` | Dashboard preview |
 
 ---
 
