@@ -5,8 +5,6 @@ An **interactive HR Analytics Dashboard** built using **Power BI**, designed to 
 ---
 
 ## 📊 Dashboard Overview
-
-![HR Analytics Dashboard]()
 <img width="1175" height="660" alt="Screenshot 2025-06-27 003219" src="https://github.com/user-attachments/assets/7aec198b-8f9f-400b-8658-43da05b6338f" />
 
 This dashboard provides **actionable insights** into employee attrition patterns and workforce trends.  
